@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">actividad9</string>
+    <string name="eliminar_empleado" />
 </resources>
